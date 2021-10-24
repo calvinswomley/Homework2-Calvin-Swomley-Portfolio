@@ -6,7 +6,6 @@ This website is a portfolio of Calvin Swomley's web development work. The work i
 
 Completed Portfolio Screenshoot:
 ![ Completed Calvin Swomley Portfolio webpage screenshot.](./assets/images/Completed_Homework_Mock-Up_Screenshot.PNG)
-![ Completed Calvin Swomley Portfolio webpage screenshot.](./assets/images/Completed_Homework_Mock-Up_Screenshot2.PNG)
 
 Link to Deployed Application: https://calvinswomley.github.io/Homework2-Calvin-Swomley-Portfolio/
 
